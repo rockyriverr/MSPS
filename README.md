@@ -1,2 +1,2 @@
 # MSPS
-Workshop on mathematical statistics
+Практические задачи по методам современной прикладной статистики
